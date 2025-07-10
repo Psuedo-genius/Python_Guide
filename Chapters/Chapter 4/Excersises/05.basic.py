@@ -1,0 +1,17 @@
+# Write a math expression using all four basic operators
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+print("The adddition is", a+b)
+print("The subtraction is ", a-b)
+print("The multiplication  is", a*b)
+print("The division is ", a/b)
+print("The modulus is ", a % b)
+print("The exponentiation is ", a**b)
+print("The floor division is ", a//b)
+# Commparsion operators
+print("Is a greater than b?", a > b)
+print("Is a less than b?", a < b)
+print("Is a equal to b?", a == b)
+print("Is a not equal to b?", a != b)
+print("Is a greater than or equ al to b?", a >= b)
+print("Is a less than or equal to b?", a <= b)
